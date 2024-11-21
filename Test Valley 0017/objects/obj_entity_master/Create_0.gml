@@ -1,0 +1,1 @@
+fun_init_entity(iv_cur_look,iv_scalex,iv_scaley,iv_state);
